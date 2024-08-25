@@ -361,12 +361,9 @@ h4.cardAbout-title{
     position: relative;
     top: -200px;
 }
-.missionBoxBtn .googlePlay{
-    width: 240px !important;
-}
 .faqContainer{
     position: relative;
-    top: -1.5rem;
+    top: 1.5rem; 
 }
 .faqContainer h1{
     font-family: 'interBold' !important;
@@ -569,10 +566,6 @@ footer{
     .missionBoxBtn{
         top: -130px;
     }
-    .missionBoxBtn .googlePlay {
-        width: 200px !important;
-        margin-left: 70px;
-    }
     .contactFormSocial {
         height: 200px;
         width: 200px !important;
@@ -613,7 +606,7 @@ footer{
         top: 0px;
         display: flex;
         justify-content: center;
-        margin-top: 30px;
+        margin-top: -10px;
     }
     /* section contact */
     .contactForm{
@@ -802,11 +795,7 @@ footer{
         top: 0px;
         display: flex;
         justify-content: center;
-        margin-top: 30px;
-    }
-    .missionBoxBtn .googlePlay {
-        width: 150px !important;
-        margin-left: 0px;
+        margin-top: -30px;
     }
     .faqAccordian .accordion-button {
         font-size: 1rem !important;
